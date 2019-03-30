@@ -6,7 +6,7 @@
 
 ## 미리 보기
 
-[Preview Site](https://mobbing.github.io/Mobbing-Theme/)
+[Preview Site](https://mckimm.github.io/)
 
 ![img-1](./resource/img/readme/image-1.png)
 ![img-2](./resource/img/readme/image-2.png)
@@ -70,5 +70,4 @@ Mobbing-Theme는 온라인 사이트맵 프로그램이 제대로 된 사이트�
 ```console
 $ node make_sitemap.js
 ```
-프로젝트 최상위 폴더에 스크립트가 있습니다. 실행시키면 포스팅한 모든 내용들이 같은 폴더에 사이트맵으로 추출됩니다. 
-
+프로젝트 최상위 폴더에 스크립트가 있습니다. 실행시키면 포스팅한 모든 내용들이 같은 폴더에 사이트맵으로 추출됩니다.
