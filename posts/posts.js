@@ -1,24 +1,24 @@
 const posts =
 {
-	"category": {
+	"McKimm": {
 		"type": "single",
-		"href": "/posts/category/",
+		"href": "/posts/McKimm/",
 		"icon": "fa fa-book",
 		"posts": []
 	},
-	"dropdown": {
+	"SystemEngineer": {
 		"type": "dropdown",
 		"href": "#",
 		"icon": "fa fa-book",
 		"posts": {
-			"sub-category": {
-				"href": "/posts/dropdown/subcategory/",
+			"PublicCloud": {
+				"href": "/posts/SystemEngineer/PublicCloud/",
 				"icon": "icon-note",
 				"posts": [
 					{
-						"href": "/posts/dropdown/subcategory/2019-03-29-10-09-00/",
+						"href": "/posts/SystemEngineer/PublicCloud/Azure-Command.md",
 						"icon": "icon-note",
-						"title": "Test Posting"
+						"title": "Azure-Command.md"
 					}
 				]
 			}
